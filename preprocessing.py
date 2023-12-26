@@ -1,7 +1,7 @@
 import scanpy as sc
 
 sc.settings.verbosity = 3
-adata = sc.read_mtx("/Users/zhiyong/Downloads/synopsis/Bmatrix.mtx")
+adata = sc.read_mtx("[your filepath]/Bmatrix.mtx")
 
 print("Original matrix shape:", adata.shape)
 
