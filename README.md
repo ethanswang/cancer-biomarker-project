@@ -6,3 +6,5 @@ https://ngdc.cncb.ac.cn/omix/release/OMIX001073
 Files to download: all cell matrix and annotations
 
 Run using a conda virtual environment
+
+Run preprocessing.ipynb using Jupyter Notebook
